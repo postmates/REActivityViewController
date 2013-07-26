@@ -23,7 +23,6 @@ Pod::Spec.new do |s|
   s.dependency 'DEFacebookComposeViewController', '~> 1.0.0'
   s.dependency 'REComposeViewController', '~> 2.1.2'
   s.dependency 'SFHFKeychainUtils', '~> 0.0.1'
-  s.dependency 'PocketAPI', '~> 1.0.2'
   s.dependency 'AFXAuthClient', '~> 1.0.7'
 
   s.prefix_header_contents = <<-EOS
